@@ -8,3 +8,5 @@ The original dataset is can be found here: <https://github.com/ZeerakW/hatespeec
 It contains 16,907 tweet IDs along with corresponding annotations. We could only
 retrieve 16,202 of the tweets since some of them have been deleted or their visibility
 limited.
+
+The Racist-sexist dataset is a hydrated version of a subset of the waseem and hovy dataset
